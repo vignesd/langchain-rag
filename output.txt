@@ -1,0 +1,73 @@
+Raw LLM Invocation (No RAG): Pinecone is a scalable machine learning vector search platform that enables users to build and deploy high-performance vector similarity search engines quickly and easily.
+It provides tools and infrastructure to efficiently index and search through high-dimensional vectors, making it ideal for applications such as recommendation systems, natural language processing, and image recognition.
+Pinecone offers features such as real-time updates, fast indexing, and automatic scaling to handle large datasets and increasing query throughput.
+----------------------------------------------------------------------------------------------------
+WITHOUT LCEL: Pinecone is a fully managed cloud-based vector database designed for efficient retrieval of similar data points based on their vector representations in machine learning applications.
+It is built to handle large-scale ML tasks with millions or billions of data points by providing infrastructure management and maintenance services to its users.
+Pinecone has the capability to handle high query throughput and ensure low latency search results.
+It is a secure platform that meets the security needs of businesses and organizations.
+Additionally, Pinecone offers a user-friendly interface with a simple API for storing and retrieving vector data, making it easy to integrate into existing ML workflows.
+It supports real-time updates, ensuring that the vector database remains accurate and up-to-date as new data points are added.
+Pinecone can be synced with data from various sources using tools like Airbyte and monitored with Datadog for efficient management.
+Overall, Pinecone is a powerful tool in the field of machine learning that provides a scalable and fast solution for storing and retrieving vector embeddings, making it ideal for applications that require real-time search capabilities and large volumes of data.
+----------------------------------------------------------------------------------------------------
+With LCEL: Pinecone is a fully managed cloud-based vector database designed to be fast, scalable, and efficient for storing and retrieving vector representations of data points.
+It can handle large-scale machine learning applications with millions or billions of data points. Pinecone provides infrastructure management and maintenance, ensuring high query throughput and low latency search capabilities.
+It is a secure platform that meets the security needs of businesses and organizations.
+Pinecone is user-friendly and accessible via a simple API for storing and retrieving vector data, making it easy to integrate into existing machine learning workflows.
+It supports real-time updates, allowing for efficient updates to the vector database as new data points are added.
+This ensures that the database remains up-to-date and accurate over time.
+In addition, Pinecone can be synced with data from various sources using tools like Airbyte and monitored using Datadog.
+It is designed to be efficient and effective for large-scale machine learning applications, providing a reliable solution for storing and querying vector representations of data points.
+----------------------------------------------------------------------------------------------------
+With LCEL: Pinecone is a fully managed cloud-based vector database designed for efficient retrieval of similar data points based on their vector representations.
+It is built to be fast and scalable, capable of handling large-scale ML applications with millions or billions of data points.
+Pinecone provides infrastructure management and maintenance to its users, ensuring high query throughput and low latency search performance.
+Additionally, Pinecone is known for its secure platform that meets the security needs of businesses and organizations.
+It offers a user-friendly interface and a simple API for storing and retrieving vector data, making it easy to integrate into existing ML workflows.
+Pinecone supports real-time updates, ensuring that the vector database remains up-to-date and accurate over time.
+Furthermore, Pinecone can be synced with data from various sources using tools like Airbyte and monitored using Datadog.
+Overall, Pinecone is a powerful tool for businesses and organizations looking to build and deploy large-scale ML applications efficiently.
+----------------------------------------------------------------------------------------------------
+Raw LLM Invocation (No RAG): Setting up a mobile device for company email is a straightforward process that can be done in just a few simple steps. Here's a general guide on how to set up your mobile device for company email:
+1. Go to the settings on your mobile device and select "Accounts" or "Mail, Contacts, Calendars."
+2. Tap on "Add Account" and select the type of email account you have (e.g., Exchange, Office 365, Gmail, etc.).
+3. Enter your email address and password, and then tap "Next."
+4. Your device will attempt to automatically configure the settings for your email account. If it is successful, you will be prompted to select which features you want to sync (e.g., mail, contacts, calendar).
+5. If the automatic configuration fails, you may need to enter the server settings manually. Your IT department should be able to provide you with the necessary information, such as the server address, domain, username, and password.
+6. Once you have entered all the required information, tap "Next" or "Save" to complete the setup process.
+7. Your company email account should now be set up on your mobile device, and you should start receiving emails shortly.
+It's important to note that some companies may have specific security requirements for accessing company email on mobile devices, such as requiring a passcode or encryption. Make sure to follow any guidelines provided by your IT department to ensure the security of your company email account.
+----------------------------------------------------------------------------------------------------
+WITHOUT LCEL: To set up your company email on your mobile device, you will need to ensure that you have a supported operating system (iOS, Android, or Windows) and your company email account credentials. 
+
+First, check if your company requires a Mobile Device Management (MDM) profile to be installed on your device. If so, make sure the profile is installed before proceeding. If you are unsure about this requirement, reach out to your IT department for assistance.
+
+Next, follow these steps to set up your email account:
+1. Open the Settings app on your mobile device.
+2. Look for the "Mail" or "Email" option (the wording may vary depending on your device's operating system) and select it.
+3. Tap on "Add Account" or "Create a new account".
+4. Choose "Exchange" or "Corporate" as the account type.
+5. Enter your company email address and password when prompted.
+6. If asked, input the company's email server address (e.g., mail.company.com).
+7. Select the synchronization options you prefer, such as syncing email, contacts, and calendar.
+8. Follow any additional on-screen instructions to complete the setup process.
+
+Once you have completed these steps, your mobile device should be set up to access your company email. If you encounter any issues during the setup process, don't hesitate to contact your IT department for further assistance.
+----------------------------------------------------------------------------------------------------
+With LCEL: To set up your company email on your mobile device, you will need to ensure that you have a supported operating system (iOS, Android, or Windows) and your company email account credentials. 
+
+First, check if your company requires a Mobile Device Management (MDM) profile to be installed on your device. If so, make sure the profile is installed before proceeding with setting up your email account. If you are unsure about this requirement, reach out to your IT department for guidance.
+
+Next, follow these steps to set up your email account:
+1. Open the Settings app on your mobile device.
+2. Look for the "Mail" or "Email" option, depending on your device's operating system, and select it.
+3. Tap on "Add Account" or "Create a new account".
+4. Choose "Exchange" or "Corporate" as the account type.
+5. Enter your company email address and password when prompted.
+6. If asked, input the company's email server address (e.g., mail.company.com).
+7. Select the synchronization options you prefer, such as syncing email, contacts, and calendar.
+8. Follow any additional on-screen instructions to complete the setup process.
+
+Once you have successfully set up your company email on your mobile device, you should be able to access your work emails conveniently while on the go. If you encounter any issues during the setup process, don't hesitate to seek assistance from your IT department for further support.
+----------------------------------------------------------------------------------------------------

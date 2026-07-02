@@ -1,0 +1,22 @@
+[project]
+name = "langchain-rag"
+version = "0.1.0"
+description = "Sample project demonstrating the use of LangChain for retrieval-augmented generation (RAG) applications."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.1.0",
+    "isort>=6.0.1",
+    "langchain>=0.3.27",
+    "langchain-classic>=1.0.0",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.4.8",
+    "langchain-openai>=0.3.31",
+    "langchain-pinecone>=0.2.11",
+    "langchain-unstructured>=1.0.1",
+    "langchainhub>=0.1.21",
+    "langgraph>=1.2.7",
+    "libmagic>=1.0",
+    "python-dotenv>=1.1.1",
+    "unstructured[csv]>=0.23.1",
+]
