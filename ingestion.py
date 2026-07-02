@@ -14,7 +14,7 @@ load_dotenv()
 
 if __name__ == "__main__":
     logging.info("Ingesting...")
-    filepath = Path.cwd() / "rag_it_help.csv"
+    filepath = Path.cwd() / "Docs" / "mediumblog1.txt"
     logging.info(f"File path: {filepath}")
     loader = UnstructuredLoader(file_path=filepath, chunking_strategy="basic", max_characters=1000000)
     document = loader.load()

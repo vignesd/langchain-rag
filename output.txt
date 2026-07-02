@@ -71,3 +71,33 @@ Next, follow these steps to set up your email account:
 
 Once you have successfully set up your company email on your mobile device, you should be able to access your work emails conveniently while on the go. If you encounter any issues during the setup process, don't hesitate to seek assistance from your IT department for further support.
 ----------------------------------------------------------------------------------------------------
+Raw LLM Invocation (No RAG): Setting up a mobile device for company email is a straightforward process that can be done in just a few simple steps. Here's a general guide on how to set up your mobile device for company email:
+
+1. Go to the settings on your mobile device and select "Accounts" or "Mail, Contacts, Calendars."
+
+2. Tap on "Add Account" and select the type of email account you have (e.g., Exchange, Office 365, Gmail, etc.).
+
+3. Enter your company email address and password when prompted.
+
+4. Follow the on-screen instructions to complete the setup process, which may include entering server settings, domain information, and other account details.
+
+5. Once the setup is complete, your company email should now be accessible on your mobile device through the default email app or a third-party email client.
+
+6. Make sure to set up any additional security measures recommended by your company, such as enabling two-factor authentication or setting up a passcode for your device.
+
+7. Test your email account by sending a test email to yourself or asking a colleague to send you an email to confirm that everything is working correctly.
+
+By following these steps, you should be able to easily set up your mobile device for company email and stay connected while on the go. If you encounter any issues during the setup process, don't hesitate to reach out to your company's IT support team for assistance.
+----------------------------------------------------------------------------------------------------
+WITHOUT LCEL: To set up your company email on your mobile device, you will first need to open the email app on your device. Look for the option to add a new email account and select the type of account you want to add (in this case, it will likely be an Exchange or IMAP account).
+
+Next, you will need to enter your company email address and password. You may also need to enter the server settings provided by your company's IT department, such as the incoming and outgoing server addresses, port numbers, and security settings.
+
+Once you have entered all the necessary information, your mobile device should be able to connect to your company email account and start receiving new emails. You may also want to adjust any additional settings, such as email sync frequency or notifications, to customize your email experience on your mobile device.
+----------------------------------------------------------------------------------------------------
+With LCEL: To set up your company email on your mobile device, you will first need to open the email app on your device. Look for the option to add a new email account and select the type of account you want to add (in this case, it will likely be an Exchange or IMAP account).
+
+Next, you will need to enter your company email address and password. You may also need to enter the server settings provided by your company's IT department, such as the incoming and outgoing server addresses, port numbers, and security settings.
+
+Once you have entered all the necessary information, your mobile device should be able to connect to your company email account and start receiving new emails. You may also want to adjust any additional settings, such as email sync frequency or notifications, to customize your email experience on your mobile device.
+----------------------------------------------------------------------------------------------------

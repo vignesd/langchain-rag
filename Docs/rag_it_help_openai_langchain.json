@@ -1,0 +1,122 @@
+[
+  {
+    "id": "KI-00001",
+    "topic": "Setting Up a Mobile Device for Company Email",
+    "question": "\"How do I set up my company email on my mobile device?\"",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Setting Up a Mobile Device for Company Email\n\nUser Question: \"How do I set up my company email on my mobile device?\"",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 1
+    }
+  },
+  {
+    "id": "KI-00002",
+    "topic": "Resetting a Forgotten PIN",
+    "question": "I forgot my PIN, how can I reset it?",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Resetting a Forgotten PIN\n\nUser Question: I forgot my PIN, how can I reset it?",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 2
+    }
+  },
+  {
+    "id": "KI-00003",
+    "topic": "Configuring VPN Access for Remote Workers",
+    "question": "How do I set up VPN access on my laptop so I can work from home and access company resources?",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Configuring VPN Access for Remote Workers\n\nUser Question: How do I set up VPN access on my laptop so I can work from home and access company resources?",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 3
+    }
+  },
+  {
+    "id": "KI-00004",
+    "topic": "Troubleshooting Issues with Microsoft Office",
+    "question": "\"My Microsoft Word keeps freezing every time I try to open a document, I've tried closing and reopening it but the issue persists, what can I do to fix it?\"",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Troubleshooting Issues with Microsoft Office\n\nUser Question: \"My Microsoft Word keeps freezing every time I try to open a document, I've tried closing and reopening it but the issue persists, what can I do to fix it?\"",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 4
+    }
+  },
+  {
+    "id": "KI-00005",
+    "topic": "Setting Up a Conference Call on Cisco Webex",
+    "question": "How do I set up a conference call on Cisco Webex with both video and audio for a meeting with multiple participants?",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Setting Up a Conference Call on Cisco Webex\n\nUser Question: How do I set up a conference call on Cisco Webex with both video and audio for a meeting with multiple participants?",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 5
+    }
+  },
+  {
+    "id": "KI-00006",
+    "topic": "Creating a Backup of Important Files",
+    "question": "\"How do I back up my important work files to prevent data loss?\"",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Creating a Backup of Important Files\n\nUser Question: \"How do I back up my important work files to prevent data loss?\"",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 6
+    }
+  },
+  {
+    "id": "KI-00007",
+    "topic": "Troubleshooting Issues with Company-Issued Tablets",
+    "question": "\"My company-issued tablet is freezing frequently and I'm unable to access some of my apps, what can I do to fix the issue?\"",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Troubleshooting Issues with Company-Issued Tablets\n\nUser Question: \"My company-issued tablet is freezing frequently and I'm unable to access some of my apps, what can I do to fix the issue?\"",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 7
+    }
+  },
+  {
+    "id": "KI-00008",
+    "topic": "Setting Up a Secure Wireless Network",
+    "question": "\"How do I set up a secure wireless network for my workgroup to prevent unauthorized access and ensure data protection?\"",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Setting Up a Secure Wireless Network\n\nUser Question: \"How do I set up a secure wireless network for my workgroup to prevent unauthorized access and ensure data protection?\"",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 8
+    }
+  },
+  {
+    "id": "KI-00009",
+    "topic": "Resetting a Jammed Printer",
+    "question": "What steps can I take to fix my printer when it's jammed and won't print?",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Resetting a Jammed Printer\n\nUser Question: What steps can I take to fix my printer when it's jammed and won't print?",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 9
+    }
+  },
+  {
+    "id": "KI-00010",
+    "topic": "Configuring Email on an Android Device",
+    "question": "How do I set up my company email on my personal Android device?",
+    "content": "",
+    "answer": "",
+    "page_content": "Topic: Configuring Email on an Android Device\n\nUser Question: How do I set up my company email on my personal Android device?",
+    "metadata": {
+      "source": "rag_it_help.csv",
+      "row": 10
+    }
+  }
+]
